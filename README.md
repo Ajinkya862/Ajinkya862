@@ -15,4 +15,5 @@ M.Tech in Computer Science (Information Security), passionate about building AI-
 
 🌱 Exploring LLM applications, AI agents, and end-to-end AI systems.
 
-🔗 [LinkedIn]((https://www.linkedin.com/in/ajinkya-kamble862/))
+🔗 [LinkedIn](https://www.linkedin.com/in/ajinkya-kamble862/)
+
