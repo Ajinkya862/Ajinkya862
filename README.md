@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Ajinkya862
-- 👀 I’m interested in creating useful projects using various technologies.
-- 🌱 I’m currently learning Python Development and AI&ML.
-- 💞️ I’m looking to collaborate on Python projects.
-- 📫 How to reach me - kambleajinkya0802@gmail.com
+# Hi, I'm Ajinkya Kamble 👋
 
-<!---
-Ajinkya862/Ajinkya862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### AI Engineer | Machine Learning | Generative AI
+
+M.Tech in Computer Science (Information Security), passionate about building AI-powered applications and data-driven solutions.
+
+**Tech Stack**
+
+- **Languages:** Python, C++, SQL
+- **AI/ML:** PyTorch, Scikit-learn, TensorFlow, Hugging Face
+- **GenAI:** LLMs, RAG, LangChain, LangGraph
+- **Data Engineering:** PySpark, Kafka, Airflow, ETL Pipelines
+- **Backend & Tools:** FastAPI, Docker, PostgreSQL, Git, Linux
+
+
+🌱 Exploring LLM applications, AI agents, and end-to-end AI systems.
+
+🔗 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ajinkya-kamble862/))
